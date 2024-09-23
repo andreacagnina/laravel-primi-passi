@@ -42,8 +42,8 @@
         <div class="container m-5">
             <div class="row">
                 <div class="col-12">
-                    <div class="content text-center">
-                        <h1>{{ $greeting }}</h1>
+                    <div class="content text-center align-bottom">
+                        <h2>{{ $price }}</h2>
                     </div>
                 </div>
             </div>
